@@ -1,7 +1,7 @@
 variable "numberOfBuckets" {
   type = number
 }
-variable "BucketName" {
+variable "bucketName" {
 type = string 
 }
 
