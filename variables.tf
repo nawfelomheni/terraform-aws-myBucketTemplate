@@ -1,0 +1,3 @@
+variable "numberOfBuckets" {
+  type = number
+}
